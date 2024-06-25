@@ -1,15 +1,14 @@
 
 * Hi 👋, I'm Vaishnavi
 Computer Science Graduate | Looking for Job
-* 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaish-0316&label=Profile%20views&color=0e75b6&style=flat" alt="vaish-0316" /> </p>
 
 - 🌱 I’m currently learning **Data Analytics and DSA**
 
 - 📫 How to reach me ?
--      **Email : vaishnavi.3162@gmail.com**
--      **LinkedIn : https://www.linkedin.com/in/vaishnavi-15338b221/ **
+-      *Email : vaishnavi.3162@gmail.com*
+-      *LinkedIn : https://www.linkedin.com/in/vaishnavi-15338b221/ *
 
 <h4 align="left">Languages and Tools:</h4>
 

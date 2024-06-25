@@ -7,8 +7,8 @@ Computer Science Graduate | Looking for Job
 - 🌱 I’m currently learning **Data Analytics and DSA**
 
 - 📫 How to reach me ?
--      *Email : vaishnavi.3162@gmail.com*
--      *LinkedIn : https://www.linkedin.com/in/vaishnavi-15338b221/ *
+-      Email : vaishnavi.3162@gmail.com
+-      LinkedIn : https://www.linkedin.com/in/vaishnavi-15338b221/ 
 
 <h4 align="left">Languages and Tools:</h4>
 

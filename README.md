@@ -1,6 +1,6 @@
 
 * Hi 👋, I'm Vaishnavi
-Computer Science Graduate | Looking for Job
+<P>Computer Science Graduate | Looking for Job</P>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaish-0316&label=Profile%20views&color=0e75b6&style=flat" alt="vaish-0316" /> </p>
 
